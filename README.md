@@ -1,4 +1,4 @@
-# Hi there, I'm NeuralProg 👋
+# Hi there, I'm MaxEntz 👋
  
 ![Profile Views](https://komarev.com/ghpvc/?username=MaxEntz&style=flat-square)
  
@@ -23,7 +23,6 @@ I am a passionate software developer with expertise in C and Python, and a lot o
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
  
 ## 🚀 Projects
 [View my starred projects](https://github.com/MaxEntz?tab=stars)
