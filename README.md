@@ -32,7 +32,7 @@ I am a passionate software developer with expertise in C and Python, and extensi
   - **Technologies Used**: C, OpenSSL
   - **Features**: Encryption, decryption, secure storage, and user-friendly interface
 
-- **[CTF Contribution](https://github.com/MaxEntz/CTF)**: Contributions to Capture The Flag (CTF) challenges, focusing on cybersecurity and ethical hacking.
+- **[CTF Contribution](https://github.com/MaxEntz/CCTF)**: Contributions to Capture The Flag (CTF) challenges, focusing on cybersecurity and ethical hacking.
   - **Technologies Used**: Various (Python, Bash, etc.)
   - **Features**: Problem-solving, security exploitation, and vulnerability analysis
 
